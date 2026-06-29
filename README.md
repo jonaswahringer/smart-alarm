@@ -1,5 +1,8 @@
 # SMART ALARM for IOS/watchOS
 
+## References
+- https://developer.apple.com/videos/play/wwdc2025/230/
+
 ## TODO
 
 - [] Promo Meme ("Wake Up Babe -> With SMART Alarm from wahringer-oss"
