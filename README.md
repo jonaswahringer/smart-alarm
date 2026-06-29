@@ -1,6 +1,6 @@
 # SMART ALARM for IOS/watchOS
 
-TODO
+## TODO
 [] Promo Meme ("Wake Up Babe -> With SMART Alarm from wahringer-oss"
 [] Create nice icon
 [] Create UI for iOS app
