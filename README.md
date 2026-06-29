@@ -1,4 +1,4 @@
-# SMART ALARM for IOS/watchOS
+# SMART ALARM for iOS/watchOS
 
 ## References
 - https://developer.apple.com/videos/play/wwdc2025/230/
