@@ -1,0 +1,21 @@
+---
+description: Do not run builds — the user builds manually
+alwaysApply: true
+---
+
+# Manual Builds Only
+
+Do not compile, build, or run the project yourself. The user builds manually.
+
+## Do not run
+
+- `xcodebuild`
+- `swift build`
+- Opening/running the app in Simulator via CLI
+- Any other build, compile, or run step meant to verify changes
+
+## Instead
+
+- Make the code changes
+- Briefly note what the user should run if verification is needed (e.g. **⌘R** in Xcode)
+- Only run builds if the user explicitly asks you to
